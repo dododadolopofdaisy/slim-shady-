@@ -1,0 +1,10 @@
+RKPD Mainline APEX - com.android.rkpd
+
+RKPD app (Java)
+packages/modules/RemoteKeyProvisioning/app
+RKPD system server fragment (Java)
+packages/modules/RemoteKeyProvisioning/system-server
+HAL interface/implementation (Rust/C++)
+
+IRemotelyProvisionedComponent
+hardware/interfaces/security/keymint
